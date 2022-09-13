@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="MultimediosMonterrey.mx" status="blocked",Multimedios Monterrey
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:-1 tvg-id="Multimed1osMonterrey.mx" status="blocked",Multimedios Monterrey Test
+https://us-b5-p-e-kj2.cdn.mdstrm.com/live-stream-dai/56a3e60cbd7f4933b1c97937668b884d/manifest/f624fec49dadc88894ebeff1d974eab019af7757/57b4dbf5dbbfc8f16bb63ce1/c8dedf7e-8b96-4de2-be42-c6f0c786ab23/0.m3u8
+#EXTINF:-1 tvg-id="TelevisaMonterrey.mx" status="online",Televisa Monterrey
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCGDJLLphnP0zQQaE3kgo5Wg/live
+#EXTINF:-1 tvg-id="TNT-SPORTS.CL" status="online",TNT Sports Chile
+https://e9.zorritohd.net/live/STc2deb86ce3167fa.m3u8
